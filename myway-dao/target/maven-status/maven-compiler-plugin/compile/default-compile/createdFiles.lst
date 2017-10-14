@@ -1,0 +1,6 @@
+cn\guzt\dao\TSysRoleMapper.class
+cn\guzt\annotationClass\MybatisMapper.class
+cn\guzt\markerInterface\MyBatisMapper.class
+cn\guzt\dao\TSysUserMapper.class
+cn\guzt\dao\TSysOrgMapper.class
+cn\guzt\App.class

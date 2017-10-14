@@ -1,0 +1,4 @@
+cn\guzt\domain\TSysOrg.class
+cn\guzt\domain\TSysUser.class
+cn\guzt\domain\TSysRole.class
+cn\guzt\domain\base\BaseDomain.class
