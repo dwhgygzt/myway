@@ -50,7 +50,7 @@
     <!-- mysql 驱动包 版本号-->
     <mysql.connector.java.version>5.1.39</mysql.connector.java.version>
     <!-- JSON支持的包 版本号 -->
-    <jackson.core.version>2.8.7</jackson.core.version>
+    <jackson.core.version>2.12.7.1</jackson.core.version>
     <!-- poi包 -->
     <poi.version>3.16</poi.version>
     <!-- 生成javadoc文档包的插件版本号 -->
