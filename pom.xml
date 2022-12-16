@@ -27,7 +27,7 @@
     <!-- javax.servlet 版本号-->
     <javax.servlet.api.version>4.0.0</javax.servlet.api.version>
     <!-- spring版本号 -->
-    <spring.version>4.3.10.RELEASE</spring.version>
+    <spring.version>5.2.20.RELEASE</spring.version>
     <!-- spring aop 所依赖的jar包 版本号-->
     <aspectj.version>1.8.10</aspectj.version>
     <!-- Quartz 版本 -->
